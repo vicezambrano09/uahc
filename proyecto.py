@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Logo y título
-st.image("logo-uahc.jpg")
+st.image("https://campusvirtual.academia.cl/pluginfile.php/265/block_html/content/logo-web-bottom.png")
 st.title("📘 Rendimiento Académico Regional")
 st.markdown("Introducción a la programación con Python y R")
 
