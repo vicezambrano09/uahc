@@ -56,6 +56,10 @@ comuna = st.sidebar.selectbox("Comunas", regiones_interes[region][provincia])
 
 asignatura = st.sidebar.radio("Asignatura:", ["Lenguaje", "Matemáticas"])
 
+st.write("Samir.Caro")
+st.write("Vicente.Zambrano")
+st.write("jorge.Sliva")
+
 #  FILTRADO DE DATOS 
 
 # SIMCE por comuna
