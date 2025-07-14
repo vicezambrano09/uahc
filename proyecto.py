@@ -8,8 +8,8 @@ st.title("📘 Rendimiento Académico Regional")
 st.markdown("Introducción a la programación con Python y R")
 
 # Cargar datos
-promedio = pd.read_csv("promedio.csv", encoding='latin-1')
-simce = pd.read_csv("simce.csv", encoding='latin-1')
+promedio = pd.read_csv("data/promedio.csv", encoding='latin-1')
+simce = pd.read_csv("data/simce.csv", encoding='latin-1')
 
 # Diccionario para regiones
 regiones_interes = {
